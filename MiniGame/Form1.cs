@@ -23,10 +23,24 @@ namespace MiniGame
             this.Hide();
 
             // Membuat instance form baru
-            Form2 form2 = new Form2(); // Ganti "Form2" dengan nama form yang Anda buat
+            Form2 form2 = new Form2();
 
             // Menampilkan form baru
             form2.Show();
+        }
+
+        private void bt_matching_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form3 form3 = new Form3();
+            form3.Show();
+        }
+
+        private void bt_flappy_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form4 form4 = new Form4();
+            form4.Show();
         }
     }
 }

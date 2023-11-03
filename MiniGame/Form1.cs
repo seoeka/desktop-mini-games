@@ -42,5 +42,10 @@ namespace MiniGame
             Form4 form4 = new Form4();
             form4.Show();
         }
+
+        private void bt_quit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

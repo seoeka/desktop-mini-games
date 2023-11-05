@@ -11,5 +11,10 @@
 </div>
 
 ## Matching Game
+<p>In this game there are 36 icon cards, composed of 18 pairs in random order. Player need to find a match for an icon and completed all the cards to win the game! Here's my reference for this <a href="https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-windows-forms-create-match-game?view=vs-2022
+">Matching Game</a>.</p>
+<div style="text-align:center;">
+    <img src="https://github.com/seoeka/UAS-Desktop-MiniGames/assets/87307944/30681200-eb5d-4edd-acf4-d8f3f67fb317" width="300" alt="Mini Games Screenshot" style="display: inline-block; vertical-align: middle;">
+</div>
 
 ## Flappy Bird

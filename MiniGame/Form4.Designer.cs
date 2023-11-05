@@ -49,7 +49,7 @@
             this.flappyBird.Image = global::MiniGame.Properties.Resources.pink_bird;
             this.flappyBird.Location = new System.Drawing.Point(111, 140);
             this.flappyBird.Name = "flappyBird";
-            this.flappyBird.Size = new System.Drawing.Size(56, 40);
+            this.flappyBird.Size = new System.Drawing.Size(65, 51);
             this.flappyBird.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.flappyBird.TabIndex = 23;
             this.flappyBird.TabStop = false;

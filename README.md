@@ -18,3 +18,8 @@
 </div>
 
 ## Flappy Bird
+<p>The game is a side-scroller where the player controls a bird, attempting to fly between columns of tree trunks without hitting them. <a href="https://youtu.be/yUCCv-sFUDQ?si=iBuyifWW7yG-79tE">This</a> tutorial helps me made the game.</p>
+<div style="text-align:center;">
+    <img src="https://github.com/seoeka/UAS-Desktop-MiniGames/assets/87307944/3b869213-1446-4fc1-870b-e0706d349ef2" width="300" alt="Mini Games Screenshot" style="display: inline-block; vertical-align: middle;">
+</div>
+
